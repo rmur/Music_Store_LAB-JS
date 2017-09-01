@@ -1,0 +1,14 @@
+{
+  "name": "recordlab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "record.js",
+  "scripts": {
+    "test": "mocha specs"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^3.5.0"
+  }
+}
